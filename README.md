@@ -1,0 +1,1 @@
+# hra_zivota_classes_genericColl_manualGraphicRefreshing
