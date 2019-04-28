@@ -1,0 +1,14 @@
+C:\Users\vojta\source\repos\vagunda_hra_zivota_classes_genericColl\GraphicalGameOfLifeForm\bin\Debug\GraphicalGameOfLifeForm.exe.config
+C:\Users\vojta\source\repos\vagunda_hra_zivota_classes_genericColl\GraphicalGameOfLifeForm\bin\Debug\GraphicalGameOfLifeForm.exe
+C:\Users\vojta\source\repos\vagunda_hra_zivota_classes_genericColl\GraphicalGameOfLifeForm\bin\Debug\GraphicalGameOfLifeForm.pdb
+C:\Users\vojta\source\repos\vagunda_hra_zivota_classes_genericColl\GraphicalGameOfLifeForm\bin\Debug\vagunda_hra_zivota_classes_genericColl.exe
+C:\Users\vojta\source\repos\vagunda_hra_zivota_classes_genericColl\GraphicalGameOfLifeForm\bin\Debug\vagunda_hra_zivota_classes_genericColl.pdb
+C:\Users\vojta\source\repos\vagunda_hra_zivota_classes_genericColl\GraphicalGameOfLifeForm\bin\Debug\vagunda_hra_zivota_classes_genericColl.exe.config
+C:\Users\vojta\source\repos\vagunda_hra_zivota_classes_genericColl\GraphicalGameOfLifeForm\obj\Debug\GraphicalGameOfLifeForm.csprojAssemblyReference.cache
+C:\Users\vojta\source\repos\vagunda_hra_zivota_classes_genericColl\GraphicalGameOfLifeForm\obj\Debug\GraphicalGameOfLifeForm.Form1.resources
+C:\Users\vojta\source\repos\vagunda_hra_zivota_classes_genericColl\GraphicalGameOfLifeForm\obj\Debug\GraphicalGameOfLifeForm.Properties.Resources.resources
+C:\Users\vojta\source\repos\vagunda_hra_zivota_classes_genericColl\GraphicalGameOfLifeForm\obj\Debug\GraphicalGameOfLifeForm.csproj.GenerateResource.cache
+C:\Users\vojta\source\repos\vagunda_hra_zivota_classes_genericColl\GraphicalGameOfLifeForm\obj\Debug\GraphicalGameOfLifeForm.csproj.CoreCompileInputs.cache
+C:\Users\vojta\source\repos\vagunda_hra_zivota_classes_genericColl\GraphicalGameOfLifeForm\obj\Debug\GraphicalGameOfLifeForm.csproj.CopyComplete
+C:\Users\vojta\source\repos\vagunda_hra_zivota_classes_genericColl\GraphicalGameOfLifeForm\obj\Debug\GraphicalGameOfLifeForm.exe
+C:\Users\vojta\source\repos\vagunda_hra_zivota_classes_genericColl\GraphicalGameOfLifeForm\obj\Debug\GraphicalGameOfLifeForm.pdb
